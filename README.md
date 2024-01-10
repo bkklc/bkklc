@@ -31,14 +31,14 @@
 <hr/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bkklc&theme=bear&show_icons=true&hide_border=false&count_private=true" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bkklc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=bkklc&locale=en&mode=daily&theme=bear&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bkklc&theme=blue-green&&show_icons=true&hide_border=false&count_private=true" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bkklc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=bkklc&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D&order=3" height="200" alt="streak graph"  />
 </div>
 
 <h1 align="center">🔝 Top Contributed Repo </h1>
 <div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=bkklc&limit=5&theme=bear&combine_all_yearly_contributions=true" height="300" alt="stats graph"  />
+    <img src="https://github-contributor-stats.vercel.app/api?username=bkklc&limit=5&theme=blue-green&combine_all_yearly_contributions=true" height="300" alt="stats graph"  />
 </div>
 
 <h3 align="left">Connect with me:</h3>
