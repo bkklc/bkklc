@@ -45,15 +45,16 @@
  <h3 align="center">  🔝 Top Contributed Repo</h3> 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=bkklc&limit=5&theme=blue-green&combine_all_yearly_contributions=true" height="300" alt="stats graph"  />
-  
+  <div/>
 
 
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
  <a href="https://www.linkedin.com/in/berkklc" target="_blank">
      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
  </a>
-<p align="left">
+
 </p>
 
 
