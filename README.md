@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Berk Kılıç</h1>
-<h3 align="center">.NET & React Fullstack Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 
 
