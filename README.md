@@ -48,7 +48,7 @@
   <div/>
 
 
-
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/berkklc" target="_blank">
@@ -59,8 +59,12 @@
 
 
 
-###
 
-[![](https://visitcount.itsvg.in/api?id=berkklc&icon=6&color=5)](https://visitcount.itsvg.in)
+###
+<div align="left"> 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=bkklc&label=Profile%20Views&color=0&icon=0&pretty=true" />
+</a>
+ <div/>
 
 ##
