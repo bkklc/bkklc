@@ -46,8 +46,8 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
  <a href="https://www.linkedin.com/in/berkklc" target="_blank">
      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
  </a>
@@ -57,11 +57,11 @@
 
 
 
-###
+
 <div align="left"> 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=bkklc&label=Profile%20Views&color=12&icon=0&pretty=true" />
 </a>
  <div/>
 
-##
+
