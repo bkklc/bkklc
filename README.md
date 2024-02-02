@@ -63,7 +63,7 @@
 ###
 <div align="left"> 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=bkklc&label=Profile%20Views&color=0&icon=0&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=bkklc&label=Profile%20Views&color=12&icon=0&pretty=true" />
 </a>
  <div/>
 
